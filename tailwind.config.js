@@ -7,12 +7,14 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      container:{
+        center:true,
+        padding:"1rem"
+      },
+      colors: {
+        heart: '#eb4a36',
       },
     },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/typography")]
 };
