@@ -20,8 +20,8 @@ bun dev
 
 
 
-- [Live URL](https://nextjs.org/docs) 
-- [GithubRepo](https://nextjs.org/learn) 
+- [Live URL](https://khana-lac.vercel.app/) 
+- [GithubRepo](https://github.com/Muktadirnayem66/khana.git) 
 
 
 Khana Project Overview - 
