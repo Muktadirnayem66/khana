@@ -24,9 +24,8 @@ bun dev
 - [GithubRepo](https://nextjs.org/learn) 
 
 
-Eventry Project Overview - 
+Khana Project Overview - 
 - Handling Error and Loading
-- Image Optimization and handling Blur placeholde
 - Meta Optimization and Dynamic meta 
 - Make an event as interested (Revalidate after db update, Server action invoked on button cliked  performance optimization with the useTransaction hook)
 - Auth details in context (use context api in next js app router)
